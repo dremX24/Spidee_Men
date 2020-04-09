@@ -1,0 +1,27 @@
+<html>
+
+       <head>
+             <meta charset="utf-8">
+             <title>Premier test</title>
+
+       </head>
+
+<body>
+      <h1>Salut tout le monde</h1>
+      
+   <p>
+      <h2>Comment vous allez la famille, comment se passe le confinement.</h2>
+   </p>  
+   
+   <p>   
+      <h2>Moi c'est plutôt cool le confinement.</h2>
+   </p>
+
+   <img src="https://www.archimag.com/sites/archimag.com/files/styles/article/public/web_articles/image/CC-astronaut-space-shuttle-discovery-space-universe-science.jpg?itok=kzLgQ3mT">
+
+
+</body>
+
+
+
+</html>
